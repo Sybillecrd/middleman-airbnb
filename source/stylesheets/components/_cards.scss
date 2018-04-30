@@ -1,0 +1,19 @@
+.card {
+  background-size: cover;
+  background-position: center;
+  color: white;
+  height: 150px;
+  font-size: 25px;
+  font-weight: bold;
+  padding: 50px;
+  margin: 10px 5px;
+  box-shadow: 1px 5px 5px 1px rgba(10, 10, 10, 0.1);
+  text-align: center;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+
+ .cards-container {
+  flex-grow: 1;
+ }
